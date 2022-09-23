@@ -1,0 +1,39 @@
+/*Extra small devices (portrait phone, less then 576px)*/
+@media (max-width: 575.98px) {
+	/*header start*/
+	
+
+}
+
+
+
+/*small devices (landscape phone, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px){
+	/*header start*/
+	
+}
+
+/*Medium devices (tablets,768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+	/*header start*/
+	
+}
+
+/*large devices (dextops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1399.98px) {
+   
+    
+}
+/*Extra large device (large dextops, 1200px and up)*/
+@media (min-width1200px) and (max-width1399.98px){
+       /*banner start*/
+      html{
+
+      }
+}
+/*Extra Extra large devices (extra large dextops, 1400px and uo)*/
+@media (min-width1400px){
+  /*feature start*/
+  body {
+  	display: block;
+  }
